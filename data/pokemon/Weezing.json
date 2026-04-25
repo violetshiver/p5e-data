@@ -1,10 +1,12 @@
 {
   "AC": 16,
   "Abilities": [
-    "Levitate"
+    "Levitate",
+    "Neutralising Gas"
   ],
   "Fsp": 30,
   "HP": 88,
+  "Hidden Ability": "Stench",
   "Hit Dice": 10,
   "MIN LVL FD": 8,
   "Moves": {

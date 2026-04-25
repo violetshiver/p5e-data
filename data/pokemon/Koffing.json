@@ -1,11 +1,13 @@
 {
   "AC": 14,
   "Abilities": [
-    "Levitate"
+    "Levitate",
+    "Neutralising Gas"
   ],
   "Evolve": "Weezing",
   "Fsp": 20,
   "HP": 18,
+  "Hidden Ability": "Stench",
   "Hit Dice": 6,
   "MIN LVL FD": 1,
   "Moves": {

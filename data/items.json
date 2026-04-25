@@ -2,8 +2,29 @@
   "Ability Capsule": {
     "Effect": "A consumable item that allows a Pokémon to switch the non-hidden ability it knows (if two options are available)."
   },
+  "Ability Patch": {
+    "Effect": "A consumable item that allows a Pokémon to replace its main ability with its Hidden Ability, or another main ability if it already has its Hidden Ability."
+  },
+  "Ability Shield": {
+    "Effect": "A Pokémon with this item cannot have its ability swapped, ignored or suppressed in any way."
+  },
+  "Absorb Bulb": {
+    "Effect": "When hit by a damaging Water type move, consume the item and then raise the DC of your moves by 2 for the rest of the battle."
+  },
+  "Adrenadile Orb": {
+    "Effect": "While under the Frightened condition, increase your move speed by 20ft and become immune to the effects of the condition under the end of the next round."
+  },
+  "Aguav Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and restore 60 health. If the Pokémon does not like the taste, they become confused. Pokémon with CHA lowering natures will become confused if eating this berry."
+  },
   "Air Balloon": {
     "Effect": "Pokémon that holds this is immune to ground-type moves. Pops when holder is hit by an attack."
+  },
+  "Amulet Coin": {
+    "Effect": "If a Pokémon holding this item is on the field when a battle ends, increase the prize money earned by 40%."
+  },
+  "Apicot Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +2 to CHA."
   },
   "Arceus Plate": {
     "Effect": "Changes the typing of Arceus and the move \"Judgement\"."
@@ -17,8 +38,20 @@
   "Babiri Berry": {
     "Effect": "Pokémon takes half damage from a steel-type move. Activates when damaged by a steel-type move."
   },
+  "Belue Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Ice Type as a third type."
+  },
+  "Berserk Gene": {
+    "Effect": "When the holder switches into battle, consume this item, then gain +2 STR and become confused."
+  },
   "Big Root": {
     "Effect": "HP stealing moves restore an additional 1d12 HP (without additional damage to the target)."
+  },
+  "Binding Band": {
+    "Effect": "This Pokémon's move modifier is doubled against restrained or grappled Pokémon."
+  },
+  "Black Augurite": {
+    "Effect": "Using this item allows the user's Scyther to evolve into Kleavor."
   },
   "Black Belt": {
     "Effect": "Holder adds prof. bonus to damage from fighting-type moves (once per move)."
@@ -28,6 +61,21 @@
   },
   "Black Sludge": {
     "Effect": "Restores HP equal to the holder's prof. bonus to poison types at the end of each of their turns. Damages non-poison types for the same amount instead of healing."
+  },
+  "Bluk Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Fighting Type as a third type."
+  },
+  "Blunder Policy": {
+    "Effect": "When the holder fails to hit a target, they consume this item and their movement speed is increased by 15ft until the end of combat and, until the end of their next turn, they can disengage as a free action."
+  },
+  "Booster Energy": {
+    "Effect": "When held by a Pokémon with Protosynthesis or Quark Drive, consume this item and activate their ability."
+  },
+  "Bright Powder": {
+    "Effect": "When the Pokémon holding this item is hit by a melee move, the attacker gets -1 to their attack rolls for the remainder of the encounter. Bright Powder activates once per attacker, but the debuff resets on switch out."
+  },
+  "Cell Battery": {
+    "Effect": "When hit by a damaging Water type move, consume the item and then raise your DEX by 2."
   },
   "Charcoal": {
     "Effect": "Holder adds prof. bonus to damage from fire-type moves (once per move)."
@@ -44,17 +92,38 @@
   "Chilan Berry": {
     "Effect": "Pokémon takes half damage from a normal-type move. Activates when damaged by a normal-type move."
   },
+  "Choice Band": {
+    "Effect": "This Pokémon has a +5 to hit on all melee moves, but it is locked into the first move it selects for the rest of the battle."
+  },
+  "Choice Scarf": {
+    "Effect": "This Pokémon has a 30ft bonus to its primary movement, but it is locked into the first move it selects for the rest of the battle."
+  },
+  "Choice Specs": {
+    "Effect": "This Pokémon has a +5 to hit on all ranged moves, but it is locked into the first move it selects for the rest of the battle."
+  },
   "Chople Berry": {
     "Effect": "Pokémon takes half damage from a fighting-type move. Activates when damaged by a fighting-type move."
   },
-  "Coba  Berry": {
+  "Cleanse Tag": {
+    "Effect": "While this Pokémon is out, encounter rolls use encounter tables one level lower in the day and one level higher at night."
+  },
+  "Coba Berry": {
     "Effect": "Pokémon takes half damage from a flying-type move. Activates when damaged by a flying-type move."
   },
   "Colbur Berry": {
     "Effect": "Pokémon takes half damage from a dark-type move. Activates when damaged by a dark-type move."
   },
-  "DNA Splicer": {
-    "Effect": "Allows Kyerum to fuse into Black or White form."
+  "Cornerstone Mask": {
+    "Effect": "When given to Ogerpon, change its aspect ability to to \"Embody Aspect (Cornerstone)\"."
+  },
+  "Cornn Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Poison Type as a third type."
+  },
+  "Covert Cloak": {
+    "Effect": "This Pokémon can use its reaction to become immune to the secondary effects of a hostile move. This can be used an amount equal to the Pokémon's proficiency bonus per battle."
+  },
+  "Custap Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry at the start of the new round and move to the top of the initiative order for this round."
   },
   "Damp Rock": {
     "Effect": "Holder increases the duration of their Rain Dance move by 3 rounds."
@@ -65,29 +134,80 @@
   "Deep Sea Tooth": {
     "Effect": "While a Clamperl holds this, their STAB increases by 1."
   },
+  "Destiny Knot": {
+    "Effect": "The user’s \"Attract\", \"Captivate\", and \"Cute Charm\" can be used on Pokémon of the same gender or genderless Pokémon. Genderless Pokémon are able to successfully use these moves as well."
+  },
+  "DNA Splicer": {
+    "Effect": "Allows Kyerum to fuse into Black or White form."
+  },
   "Dragon Fang": {
     "Effect": "Holder adds prof. bonus to damage from dragon-type moves (once per move)."
+  },
+  "Drash Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Psychic Type as a third type."
+  },
+  "Durin Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Steel Type as a third type."
+  },
+  "Eggant Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Electric Type as a third type."
   },
   "Eject Button": {
     "Effect": "When hit by an attack, holder may switch out as a free action."
   },
+  "Eject Pack": {
+    "Effect": "When the holder has a stat lowered or is made to roll at disadvantage, this item is consumed and they are switched out at the end of their turn as a free action."
+  },
+  "Electric Seed": {
+    "Effect": "If the holder is inside of Electric Terrain, consume this; gain 15ft of move speed and +2 to DEX saving throws."
+  },
+  "Enigma Berry": {
+    "Effect": "When hit by a super effective move, restore 25% of your maximum health."
+  },
+  "Eviolite": {
+    "Effect": "When held by a Pokémon that is not the final stage of its evolution line (even if this specific Pokémon cannot evolve), gain +2 AC and +2 to all saving throws."
+  },
+  "Expert Belt": {
+    "Effect": "This Pokémon's super-effective moves deal an additional damage die, plus half the user's level for damage (rounded up)."
+  },
   "Fairy Feather": {
     "Effect": "Holder adds prof. bonus to damage from fairy-type moves (once per move)."
+  },
+  "Figy Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and restore 60 health. If the Pokémon does not like the taste, they become confused. Pokémon with STR lowering natures will become confused if eating this berry."
   },
   "Flame Orb": {
     "Effect": "While held, this orb inflicts the burn status at the end of every turn."
   },
+  "Float Stone": {
+    "Effect": "The Pokémon holding this item is considered one size smaller than usual and gains an extra 5ft of movement speed (10ft if the Pokémon is Tiny)."
+  },
   "Focus Band": {
     "Effect": "Roll a d20 when suffering from the flinched status. On a 10 or higher, you do not flinch."
+  },
+  "Full Incense": {
+    "Effect": "At the start of every round after the first, you move down one space on the initiative order."
+  },
+  "Ganlon Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +2 to WIS."
   },
   "Genesect Drive": {
     "Effect": "Casettes that change the typing of Genesect's move \"Techno Blast\""
   },
+  "Ginema Berry": {
+    "Effect": "When the holder’s stats get lowered, the berry gets consumed and inverts the stat change."
+  },
   "Gracidea Flower": {
     "Effect": "A beautiful flower that allows Shaymin to change forms."
   },
+  "Grassy Seed": {
+    "Effect": "If the holder is inside of Grassy Terrain, consume this; gain temporary HP equal to your level and +2 to CON saving throws."
+  },
   "Grepa Berry": {
     "Effect": "Permanently lowers Pokémon WIS score by 2, but raises Loyalty by 1."
+  },
+  "Grip Claw": {
+    "Effect": "When you trap, restrain, or grapple a Pokémon, the skill check / DC to escape is increased by 3."
   },
   "Griseous Orb": {
     "Effect": "Allows Girantina to switch forms. Its Dragon and Ghost moves double STAB bonus."
@@ -98,14 +218,32 @@
   "Hard Stone": {
     "Effect": "Holder adds prof. bonus to damage from rock-type moves (once per move)."
   },
+  "Hearthflame Mask": {
+    "Effect": "When given to Ogerpon, change its aspect ability to to \"Embody Aspect (Hearthflame)\"."
+  },
   "Heat Rock": {
     "Effect": "Holder increases the duration of their Sunny Day move by 3 rounds."
+  },
+  "Heavy-Duty Boots": {
+    "Effect": "The Pokémon holding this item is immune to the effects of entry hazards and is unaffected by difficult terrain."
   },
   "Hondew Berry": {
     "Effect": "Permanently lowers Pokémon DEX score by 2, but raises Loyalty by 1."
   },
+  "Hopo Berry": {
+    "Effect": "When a Pokémon is holding this berry, this Pokémon and its trainer get advantage on stealth rolls against wild Pokémon, and starting a battle against a wild Pokémon without being spotted will cause it to flinch. When one of the holder’s moves drops below half of its maximum PP, the berry will be consumed and the PP of the move in question will increase by 5."
+  },
+  "Iapapa Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and restore 60 health. If the Pokémon does not like the taste, they become confused. Pokémon with CON lowering natures will become confused if eating this berry."
+  },
   "Icy Rock": {
     "Effect": "Holder increases the duration of their Hail move by 3 rounds."
+  },
+  "Iron Ball": {
+    "Effect": "This Pokémon move speed is halved and the holder is considered grounded."
+  },
+  "Joboca Berry": {
+    "Effect": "When hit by a melee move, consume the berry and deal damage to the attacker equal to 50% of the damage dealt."
   },
   "Kasib Berry": {
     "Effect": "Pokémon takes half damage from a ghost-type move. Activates when damaged by a ghost-type move."
@@ -113,14 +251,35 @@
   "Kebia Berry": {
     "Effect": "Pokémon takes half damage from a poison-type move. Activates when damaged by a poison-type move."
   },
+  "Kee Berry": {
+    "Effect": "When hit by a melee move, consume the berry and raise the holder’s AC by 2."
+  },
   "Kelpsy Berry": {
     "Effect": "Permanently lowers Pokémon STR score by 2, but raises Loyalty by 1."
   },
   "King's Rock": {
     "Effect": "On natural attack rolls of 19 or 20, the target flinches."
   },
+  "Kuo Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and lose both of your types."
+  },
+  "Lagging Tail": {
+    "Effect": "The holder is always last in the turn order."
+  },
+  "Lansat Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +2 to your critical hit rate."
+  },
+  "Lax Incense": {
+    "Effect": "When the Pokémon holding this is hit by a ranged move, the attacker gets -1 to their Move DC for the remainder of the encounter, or until they switch out. This activates only once per attacker."
+  },
+  "Leek": {
+    "Effect": "Increases Farfetch'd and Sirfetch'd's critical hit range by 2."
+  },
   "Leftovers": {
     "Effect": "Restores HP equal to the holder's proficiency bonus at the end of each of their turns."
+  },
+  "Leichi Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +2 to STR."
   },
   "Leppa Berry": {
     "Effect": "Restores 10 PP to a move. Activated when Pokémon runs out of PP for a move."
@@ -131,6 +290,12 @@
   "Light Ball": {
     "Effect": "Raises Pikachu's MOVE power modifier by +1."
   },
+  "Loaded Dice": {
+    "Effect": "When using a move that hits more than once, the d4 will now allow 2 as a normal hit in addition to 3 and 4."
+  },
+  "Luck Incense": {
+    "Effect": "Natural 20s rolled during an encounter double the rewarded prize money, once per battle."
+  },
   "Lucky Egg": {
     "Effect": "XP from battle for this Pokémon is increased by 20%."
   },
@@ -140,11 +305,35 @@
   "Lum Berry": {
     "Effect": "Cures any negative status effect. Activated when Pokémon is affected with status."
   },
+  "Luminous Moss": {
+    "Effect": "When hit by a damaging Water type move, consume the item and then reduce the amount needed to pass future DC checks by 2 for the rest of the battle."
+  },
+  "Macho Brace": {
+    "Effect": "Your speed is halved; if this Pokémon is in the party for 20 battles and participates in at least 5, reset all permanent drops made to their stats."
+  },
   "Magnet": {
     "Effect": "Holder adds prof. bonus to damage from electric-type moves (once per move)."
   },
+  "Mago Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and restore 60 health. If the Pokémon does not like the taste, they become confused. Pokémon with DEX lowering natures will become confused if eating this berry."
+  },
+  "Magost Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Fairy Type as a third type."
+  },
+  "Mail": {
+    "Effect": "You can place a held item in the Mail. An item contained in the Mail doesn't have its effects. If a Pokémon would gain this item due to Trick, Switcheroo, etc., or this item is destroyed, the mail is unpacked and is replaced by the item inside. When using Fling, the added damage from the price of the mail is typed based on the type of mail."
+  },
+  "Maranga Berry": {
+    "Effect": "When hit by a ranged move, consume the berry and reduce the amount needed to pass future DC checks by 2."
+  },
+  "Max Soup": {
+    "Effect": "When consumed by a Pokémon, they gain the \"Plus Factor\" ability. If they already have it, they lose it."
+  },
   "Megalite": {
-    "Effect": "Allows a final-stage Pokémon to \"Mega Evolve\"."
+    "Effect": "Allows a final-stage Pokémon to Mega Evolve."
+  },
+  "Mental Herb": {
+    "Effect": "When on the receiving end of a mental affliction, the holder consumes this and becomes immune to the effects of them until the end of the following round."
   },
   "Metal Coat": {
     "Effect": "Holder adds prof. bonus to damage from steel-type moves (once per move)."
@@ -152,8 +341,23 @@
   "Metal Powder": {
     "Effect": "When held by Ditto, its CON score increases by +3."
   },
+  "Metronome": {
+    "Effect": "Gain +3 damage when using the same move multiple rounds in a row unless it misses, up to a maximum of +9. (DC and autohitting moves cannot be affected by this item)."
+  },
+  "Micle Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and ensure your next damaging move will always hit, or automatically fail in the case of DC save moves."
+  },
   "Miracle Seed": {
     "Effect": "Holder adds prof. bonus to damage from grass-type moves (once per move)."
+  },
+  "Mirror Herb": {
+    "Effect": "At the end of a round where oppossing Pokémon have received positive stat changes, the Pokémon holding this item will consume this item and copy all positive stat changes the enemies benefitted from at once."
+  },
+  "Misty Seed": {
+    "Effect": "If the holder is inside of Misty Terrain, consume this; cure your status conditions (if you have any) and gain +2 to STR saving throws."
+  },
+  "Muscle Band": {
+    "Effect": "Holder adds prof. bonus to melee damage."
   },
   "Mystic Water": {
     "Effect": "Holder adds prof. bonus to damage from water-type moves (once per move)."
@@ -164,14 +368,29 @@
   "N-Solarizer": {
     "Effect": "Allows Necrozma to fuse with Solgaleo to create Dusk Mane Necrozma."
   },
+  "Nanab Berry": {
+    "Effect": "When a Pokémon is holding this item, all wild Pokémon within 20ft of it will have their move speed halved until the trainer attempts to catch it, or until the holder drops below 33% of its maximum health, in which case the berry is consumed and the holder restores 45 health."
+  },
   "NeverMelt Ice": {
     "Effect": "Holder adds prof. bonus to damage from ice-type moves (once per move)."
+  },
+  "Niniku Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Bug Type as a third type."
+  },
+  "Nomel Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Normal Type as a third type."
   },
   "Occa Berry": {
     "Effect": "Pokémon takes half damage from a fire-type move. Activates when damaged by a fire-type move."
   },
+  "Odd Incense": {
+    "Effect": "The holder's Psychic type moves have a +2 to their attack rolls."
+  },
   "Oran Berry": {
     "Effect": "Restores 2d4+2 HP. Activated when Pokémon drops below 50% HP."
+  },
+  "Pamtre Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Rock Type as a third type."
   },
   "Passho Berry": {
     "Effect": "Pokémon takes half damage from a water-type move. Activates when damaged by a water-type move."
@@ -179,20 +398,65 @@
   "Payapa Berry": {
     "Effect": "Pokémon takes half damage from a psychic-type move. Activates when damaged by a psychic-type move."
   },
+  "Peat Block": {
+    "Effect": "Using this item allows to user's Ursaring to evolve into Ursaluna."
+  },
   "Pecha Berry": {
     "Effect": "Cures poison. Activated when a Pokémon becomes poisoned."
   },
   "Persim Berry": {
     "Effect": "Cures confusion. Activated when Pokémon becomes confused."
   },
+  "Petaya Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +2 to INT."
+  },
+  "Pinap Berry": {
+    "Effect": "When a Pokémon is holding this item, any wild Pokémon it knocks out will grant 20% extra experience. If the holder drops below 33% of its maximum health, they will consume the berry, restoring 45 health."
+  },
   "Poison Barb": {
     "Effect": "Holder adds prof. bonus to damage from poison-type moves (once per move)."
   },
   "Polkadot Bow": {
-    "Effect": "Holder adds prof. bonus to damage from fairy-type moves (once per move)."
+    "Effect": "Swaps the stats moves use when doing attack and damage rolls. STR <-> INT, DEX <-> CON, WIS <-> CHA."
   },
   "Pomeg Berry": {
     "Effect": "Permanently lowers Pokémon CON score by 2, but raises Loyalty by 1."
+  },
+  "Power Anklet": {
+    "Effect": "Your speed is halved; when levelling up while holding this, reset any permanent drops made to your DEX stat. After winning 20 battles, increase your DEX by 1."
+  },
+  "Power Band": {
+    "Effect": "Your speed is halved; when levelling up while holding this, reset any permanent drops made to your CHA stat. After winning 20 battles, increase your CHA by 1."
+  },
+  "Power Belt": {
+    "Effect": "Your speed is halved; when levelling up while holding this, reset any permanent drops made to your WIS stat. After winning 20 battles, increase your WIS by 1."
+  },
+  "Power Brace": {
+    "Effect": "Your speed is halved; when levelling up while holding this, reset any permanent drops made to your STR stat. After winning 20 battles, increase your STR by 1."
+  },
+  "Power Herb": {
+    "Effect": "When using a move that takes more than one turn to charge, this item is consumed and the move is used immediately."
+  },
+  "Power Lens": {
+    "Effect": "Your speed is halved; when levelling up while holding this, reset any permanent drops made to your move speed stat. After winning 20 battles, increase your move speed by 10ft."
+  },
+  "Power Weight": {
+    "Effect": "Your speed is halved; when levelling up while holding this, reset any permanent drops made to your CON stat. After winning 20 battles, increase your CON by 1."
+  },
+  "Protective Pads": {
+    "Effect": "The holder's melee moves do not make contact with the target."
+  },
+  "Psychic Seed": {
+    "Effect": "If the holder is inside of Psychic Terrain, consume this; gain +3 to your initiative and +2 to WIS saving throws."
+  },
+  "Pumkin Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Ghost Type as a third type."
+  },
+  "Punching Glove": {
+    "Effect": "The holder's punching moves deal bonus damage equal to the holder's proficiency bonus."
+  },
+  "Pure Incense": {
+    "Effect": "While this Pokémon is out, encounter rolls use encounter tables one level lower at night and one level higher in the day."
   },
   "Qualot Berry": {
     "Effect": "Permanently lowers Pokémon AC by 2, but raises Loyalty by 1."
@@ -200,14 +464,29 @@
   "Quick Claw": {
     "Effect": "Increase initiative roll by +3 while this Pokémon is active."
   },
+  "Rabuta Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Dragon Type as a third type."
+  },
   "Rawst Berry": {
     "Effect": "Cures burn. Activated when a Pokémon becomes burned."
   },
   "Razor Claw": {
-    "Effect": "Increases critical hit range by 1 (20 to 19+, etc.)"
+    "Effect": "The holder's slicing moves deal bonus damage equual to the holder's proficiency bonus."
+  },
+  "Razor Fang": {
+    "Effect": "The holder's biting moves deal bonus damage equal to the holder's proficiency bonus."
   },
   "Razz Berry": {
     "Effect": "When held by an active Pokémon, trainer gains +1 to catching attempts."
+  },
+  "Red Card": {
+    "Effect": "When the holder is hit by a damaging move and survives, this item is consumed and the holder is forced to switch to a random other Pokémon from their party immediately as a free action."
+  },
+  "Regional Stone": {
+    "Effect": "Using this item on a Pokémon with a regional evolution (Dewott, Koffing, Pikachu, etc.) allows them to evolve into their regional evolution. Does not work on Pokémon that are already a regional form (Kantonian Growlithe, Galarian SlowPoké, etc.)."
+  },
+  "Reins of Unity": {
+    "Effect": "Allows Calyrex to mount Glastrier and Spectrier."
   },
   "Reveal Glass": {
     "Effect": "Allows the Forces of Nature to change forms."
@@ -215,14 +494,53 @@
   "Rindo Berry": {
     "Effect": "Pokémon takes half damage from a grass-type move. Activates when damaged by a grass-type move."
   },
+  "Ring Target": {
+    "Effect": "The holder of this item is no longer iummune to type-based immunities."
+  },
+  "Rock Incense": {
+    "Effect": "The holder's Rock type moves have a +2 to their attack rolls."
+  },
+  "Rocky Helmet": {
+    "Effect": "When a Pokémon holding this item is damaged by a melee move, the attacker take typeless damage equal to the holder's proficiency bonus."
+  },
+  "Room Service": {
+    "Effect": "When Trick Room is active in battle, you move to the top of the turn order regardless of initiative."
+  },
+  "Rose Incense": {
+    "Effect": "The holder's Grass type moves have a +2 to their attack rolls."
+  },
   "Roseli Berry": {
     "Effect": "Pokémon takes half damage from a fairy-type move. Activates when damaged by a fairy-type move."
+  },
+  "Rotom Catalogue": {
+    "Effect": "Allows the user to spend 2,000 Pokédollars to change the appliance your Rotom is possessing. It costs no money to take your Rotom in and out of its current appliance. You can only be in one appliance at a time."
+  },
+  "Rowap Berry": {
+    "Effect": "When hit by a ranged move, consume the berry and deal damage to the attacker equal to 50% of the damage dealt."
+  },
+  "Rusted Shield": {
+    "Effect": "Changes Zamazenta from its \"Hero of Many Battles\" form to its \"Crowned\" form. Iron Head turns into Behemoth Bash."
+  },
+  "Rusted Sword": {
+    "Effect": "Changes Zacian from its \"Hero of Many Battles\" form to its \"Crowned\" form. Iron Head turns into Behemoth Blade."
+  },
+  "Safety Goggles": {
+    "Effect": "The holder of this item becomes immune to the effects of powder moves, as well as Hail and Sandstorm's chip damage."
+  },
+  "Salac Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +2 to DEX."
   },
   "Scope Lens": {
     "Effect": "Increases critical hit range by 1 (20 to 19+, etc.)"
   },
+  "Sea Incense": {
+    "Effect": "The holder's Water and Fairy type moves have a +1 to their attack rolls."
+  },
   "Sharp Beak": {
     "Effect": "Holder adds prof. bonus to damage from flying-type moves."
+  },
+  "Shed Shell": {
+    "Effect": "This Pokémon is immune to the effects of trapping."
   },
   "Shell Bell": {
     "Effect": "Restores HP = prof. bonus after activating a move that damages at least one creature."
@@ -245,26 +563,56 @@
   "Smooth Rock": {
     "Effect": "Holder increases the duration of their Sandstorm move by 3 rounds."
   },
+  "Snowball": {
+    "Effect": "When hit by a damaging Ice type move, consume the item and then raise your CON by 2."
+  },
   "Soft Sand": {
     "Effect": "Holder adds prof. bonus to damage from ground-type moves (once per move)."
   },
   "Soothe Bell": {
-    "Effect": "Resets the Loyalty rating of a Pokémon to +0."
+    "Effect": "This Pokémon battles as if it is 1 loyalty stage higher than usual. If it is at +3 Loyalty, gain plus or minus 1 to natural roll effect chances. When this Pokémon would gain Loyalty XP, they gain 10% more."
   },
   "Spell Tag": {
     "Effect": "Holder adds prof. bonus to damage from ghost-type moves (once per move)."
   },
+  "Spelon Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Dark Type as a third type."
+  },
+  "Starf Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and gain +4 to a random stat."
+  },
   "Stick": {
-    "Effect": "Increases Farfetch'd and Sirfetch'd's critical hit range by 1 (20 to 19+, etc.)"
+    "Effect": "Increases Farfetch'd and Sirfetch'd's critical hit range by 1 and +2 to its STR/DEX (choose)."
+  },
+  "Sticky Barb": {
+    "Effect": "The holder takes damage equal to the initial holder's proficiency bonus at the end of the holder's turn. If the holder makes contact with another Pokémon and they are not holding an item, the Sticky Barb is passed to them."
+  },
+  "Strib Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Ground Type as a third type."
+  },
+  "Tamato Berry": {
+    "Effect": "Permanently lowers Pokémon speed by 10, but raises Loyalty by 1."
   },
   "Tanga Berry": {
     "Effect": "Pokémon takes half damage from a bug-type move. Activates when damaged by a bug-type move."
   },
+  "Teal Mask": {
+    "Effect": "When given to Ogerpon, change its aspect ability to to \"Embody Aspect (Teal)\"."
+  },
+  "Terrain Extender": {
+    "Effect": "The holder's terrain moves and abilities last for an extra three rounds."
+  },
   "Thick Club": {
     "Effect": "Doubles the STAB bonus of Cubone or Marowak's moves."
   },
-  "Tomato Berry": {
-    "Effect": "Permanently lowers Pokémon speed by 10, but raises Loyalty by 1."
+  "Throat Spray": {
+    "Effect": "After the holder uses a sound move, this item is consumed and, for the rest of the battle, the user's sound moves hit twice, with the second hit doing a quarter of the damage and not triggering secondary effects. This can also be consumed to cure Silenced."
+  },
+  "Topo Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and replace your existing types with 2 random types (Roll 2d18)."
+  },
+  "Touga Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Fire Type as a third type."
   },
   "Toxic Orb": {
     "Effect": "While held, this orb inflicts the poison status at the end of every turn."
@@ -272,13 +620,49 @@
   "Twisted Spoon": {
     "Effect": "Holder adds prof. bonus to damage from psychic-type moves (once per move)."
   },
+  "Type Gem": {
+    "Effect": "When using a damaging move of the gem's type, it is consumed and the next attack and its damage roll will be rolled at advantage. You can choose to not consume the gem when using Tera Blast; if you do, the attack roll won't be at advantage."
+  },
+  "Utility Umbrella": {
+    "Effect": "The holder is immune to all effects of Harsh Sunlight and Rain."
+  },
   "Wacan Berry": {
     "Effect": "Pokémon takes half damage from an electric-type move. Activates when damaged by a electric-type move."
   },
+  "Watmel Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Fighting Type as a third type."
+  },
+  "Wave Incense": {
+    "Effect": "The holder's Water type moves have a +2 to their attack rolls."
+  },
+  "Weakness Policy": {
+    "Effect": "When hit by a super-effective move, this item is consumed and the holder's damage rolls are at advantage until the end of the battle, and their attack rolls are rolled at advantage until the end of their next turn."
+  },
+  "Wellspring Mask": {
+    "Effect": "When given to Ogerpon, change its aspect ability to to \"Embody Aspect (Wellspring)\"."
+  },
+  "Wepear Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Grass Type as a third type."
+  },
+  "White Herb": {
+    "Effect": "If your stats were lowered during this round, when the round ends, you consume this and reset your stat changes to neutral, becoming immune to stat changes for the oncoming round."
+  },
   "Wide Lens": {
-    "Effect": "Holder gains +1 to all attack rolls."
+    "Effect": "The holder gains +1 to all attack rolls."
+  },
+  "Wiki Berry": {
+    "Effect": "When below 25% of maximum health, consume the berry and restore 60 health. If the Pokémon does not like the taste, they become confused. Pokémon with WIS lowering natures will become confused if eating this berry."
+  },
+  "Wise Glasses": {
+    "Effect": "Holder adds prof. bonus to ranged damage."
   },
   "Yache Berry": {
     "Effect": "Pokémon takes half damage from an ice-type move. Activates when damaged by a ice-type move."
+  },
+  "Yago Berry": {
+    "Effect": "When below 33% of maximum health, consume the berry and gain the Flying Type as a third type."
+  },
+  "Zoom Lens": {
+    "Effect": "The holder gains +1 to hit for each Pokémon before them in the turn order, capping at +5."
   }
 }

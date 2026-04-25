@@ -1,7 +1,8 @@
 {
   "AC": 16,
   "Abilities": [
-    "Steadfast"
+    "Steadfast",
+    "Sharpness"
   ],
   "HP": 101,
   "Hidden Ability": "Justified",

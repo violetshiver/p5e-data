@@ -1,0 +1,8 @@
+{
+  "Description": "You prepare to celebrate a special moment. Use your action to prepare a celebration - if an enemy Pokémon is knocked out before your next turn, you Celebrate their demise at the start of your next turn and gain +2 to all stats and AC, the boost is doubled if the opponent has more Pokemon on the field than you prior to the knockout. If no Pokemon faints by the time of your next turn, the move does nothing.",
+  "Duration": "1 round, concentration",
+  "Move Time": "1 action, charge",
+  "PP": 3,
+  "Range": "Self",
+  "Type": "Normal"
+}

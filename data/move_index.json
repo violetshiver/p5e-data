@@ -73,6 +73,7 @@
   "Calm Mind": {},
   "Camouflage": {},
   "Captivate": {},
+  "Celebrate": {},
   "Charge": {},
   "Charge Beam": {},
   "Charm": {},
@@ -163,6 +164,7 @@
   "Endure": {},
   "Energy Ball": {},
   "Entrainment": {},
+  "Error": {},
   "Eruption": {},
   "Explosion": {},
   "Extrasensory": {},
@@ -386,6 +388,7 @@
   "Night Shade": {},
   "Night Slash": {},
   "Nightmare": {},
+  "Nihil Light": {},
   "Noble Roar": {},
   "Nuzzle": {},
   "Oblivion Wing": {},
@@ -673,6 +676,5 @@
   "Yawn": {},
   "Zap Cannon": {},
   "Zen Headbutt": {},
-  "Zing Zap": {},
-  "Error": {}
+  "Zing Zap": {}
 }

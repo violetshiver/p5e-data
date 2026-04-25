@@ -1,0 +1,37 @@
+{
+	"Damage": {
+		"1": {
+			"amount": 4,
+			"dice_max": 10,
+			"move": true
+		},
+		"10": {
+			"amount": 1,
+			"dice_max": 100,
+			"move": true
+		},
+		"17": {
+			"amount": 12,
+			"dice_max": 10,
+			"move": true
+		},
+		"5": {
+			"amount": 8,
+			"dice_max": 8,
+			"move": true
+		}
+	},
+	"Description": "The user attacks by unleashing a powerful light that defies all laws of nature. All creatures in range of this (20ft wide) beam must make a save based on their most proficient stat against the user’s Move DC. On a failure, this pokemon takes Dragon damage, quartered the usual amount on a success, even if they would normally be immune. This move is unaffected by all feats on the field (including the user’s). Whilst you are using the move, you can use your action to continue using the move next turn without having to recharge, but continuous uses still consume PP, and the user is unable to move while firing (they can still turn, however). The move only stops either when you run out of PP, the Pokémon using it faints, or you stop the move midway through its charge.",
+	"Duration": "Instantaneous",
+	"Move Power": [
+		"CON"
+	],
+	"Move Time": "1 action, charge",
+	"PP": 3,
+	"Range": "Self (200ft line)",
+	"Duration": "3 turns, Concentration",
+	"Save": "CON",
+	"Scaling": "Higher Levels: The damage dice roll for this move changes to 8d8 at level 5, 1d100 at level 10, and 12d10 at level 17.",
+	"Type": "Dragon",
+	"atk": true
+}

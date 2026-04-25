@@ -2,6 +2,9 @@
   "Adaptability": {
     "Description": "When this Pokémon uses a move of its own type, it may roll the damage twice and choose either total."
   },
+  "Aerilate": {
+    "Description": "The Pokémon's Normal type moves become Flying type."
+  },
   "Aftermath": {
     "Description": "This Pokémon deals damage to an attacker equal to half of the damage received when knocked out by a melee move."
   },
@@ -17,6 +20,9 @@
   "Anger Point": {
     "Description": "After suffering a critical hit, this Pokémon doubles the damage dice for a single move it activates on the following turn."
   },
+  "Anger Shell": {
+    "Description": "When an attack causes this Pokémon to drop below 50% HP, all subsequent attacks made by this Pokémon are made at advantage, it gains 10ft of move speed, but its AC drops by 2."
+  },
   "Anticipation": {
     "Description": "When this Pokémon enters the battle, an opponent must reveal if it has a move that the Pokémon is vulnerable to. The move does not have to be revealed - only that there is such a move."
   },
@@ -26,8 +32,17 @@
   "Arena Trap": {
     "Description": "Grounded creatures within 50 feet of this Pokémon may not flee or switch out, except by item, Move, or ability."
   },
+  "Armor Tail": {
+    "Description": "Before this Pokémon's first turn in combat, it can use its reaction to prevent a Pokémon from executing a move on itself or one of its allies. PP is still consumed, but no effect occurs."
+  },
   "Aroma Veil": {
     "Description": "Any ally within 15 feet of this Pokémon automatically passes any WIS save they are required to make."
+  },
+  "As One (Ice Rider)": {
+    "Description": "This Pokémon has both Unnerve and Chilling Neigh."
+  },
+  "As One (Shadow Rider)": {
+    "Description": "This Pokémon has both Unnerve and Grim Neigh."
   },
   "Aura Break": {
     "Description": "When this Pokémon is in battle, the boost of Fairy Aura and Dark Aura abilities is reversed, Any applicable move type activated within 100 feet deals half damage instead of double."
@@ -35,11 +50,17 @@
   "Bad Dreams": {
     "Description": "If an opponent in battle with this Pokémon falls asleep, they take an amount of damage equal to this Pokémon's proficeincy bonus at the end of each of their turns."
   },
+  "Ball Fetch": {
+    "Description": "This Pokémon can use its bonus action the turn immediately after you roll to catch a Pokémon to retrieve the used Pokéball, or to retrieve a flung ball-type item (DM discretion - Iron Ball, Life Orb, etc.)."
+  },
   "Battery": {
     "Description": "Allies that activate electric-type moves within 20 feet of this Pokémon double their damage dice."
   },
   "Battle Armor": {
     "Description": "This Pokémon is immune to extra damage dealt by a Critical Hit."
+  },
+  "Beads of Ruin": {
+    "Description": "While this Pokémon is on the battlefield, all ranged attack rolls on the field have advantage, and savings throws are made at disadvantage."
   },
   "Beast Boost": {
     "Description": "Upon causing an opponent to faint, this Pokémon increases the ability scores of its saving throw proficiencies by 2 until the end of combat. This is stackable up to a maximum of +10 to any one ability score."
@@ -68,6 +89,9 @@
   "Cheek Pouch": {
     "Description": "When this Pokémon eats any type of berry,  is heals for an additional 10% of its maximum HP (rounded up to the nearest whole number)."
   },
+  "Chilling Neigh": {
+    "Description": "When this Pokémon causes another Pokémon (including allies) to faint using a damaging move, it adds +2 to hit and +1 to all damage until the end of the battle. (This buff stacks up to 5 times.)"
+  },
   "Chlorophyll": {
     "Description": "This Pokémon’s speed is doubled in harsh sunlight."
   },
@@ -83,6 +107,9 @@
   "Comatose": {
     "Description": "This Pokémon is in a continuous state of drowsiness. It is immune to the sleep condition, but is considered affected by sleep for all moves that require a Pokémon to be asleep to use or activate additional effects (Snore, Sleep Talk, Wake-Up Slap, Dream Eater, etc.)"
   },
+  "Commander": {
+    "Description": "If a Water-type ally is at least three sizes or larger than this Pokémon, it can spend its action to enter its ally's mouth, or mount it in some fashion. When mounted / consumed, this Pokémon becomes immune to all direct damage, forgoes its ability to deal direct damage, and gives its chosen ally a +2 to all stats (excluding CON) and AC. When the Pokémon it is piloting faints, this Pokémon will dismount the ally and resume battle as normal."
+  },
   "Competitive": {
     "Description": "This Pokémon adds its proficiency bonus to damage rolls while poisoned, burned, confused, or paralyzed."
   },
@@ -94,6 +121,18 @@
   },
   "Corrosion": {
     "Description": "This Pokémon's moves ignore the poison immunity of creatures granted by their Pokémon type, and can inflict the poisoned status on poison and steel type creatures. If the target’s secondary type gives it vulnerability or resistance to the damage, it follows the secondary type for that effect."
+  },
+  "Costar": {
+    "Description": "When the Pokémon switches into battle, it can copy a chosen ally's stat changes."
+  },
+  "Cotton Down": {
+    "Description": "When hit by a melee attack, this Pokémon can use its reaction to scatter cotton fluff in a 15ft radius. All creatures in range must make a DEX save, halving their speed until end of combat or switch on a fail."
+  },
+  "Cud Chew": {
+    "Description": "If this Pokémon eats a Berry or is affected by a flung Berry, its effect will activate again at the end of your next turn."
+  },
+  "Curious Medicine": {
+    "Description": "Once per battle, if an ally Pokémon switches in and is willing, this Pokémon can choose to cure their status effect."
   },
   "Cursed Body": {
     "Description": "When hit by a melee attack, this Pokémon may roll 1d4. On a result of 4, the opponent who made the attack cannot use the same move on its next turn."
@@ -110,6 +149,9 @@
   "Dark Aura": {
     "Description": "When this Pokémon is in battle, all dark-type moves by allies or opponents within 100 feet deal double their damage."
   },
+  "Dauntless Shield": {
+    "Description": "When this Pokémon enters the battlefield, its AC increases by 3. This resets on switch-out."
+  },
   "Dazzling": {
     "Description": "Creatures within line of sight of this Pokémon cannot use bonus actions to activate Moves. Moves that would normally have a Move Time of \"1 bonus action\" instead have a Move Time of \"1 action.\""
   },
@@ -119,11 +161,23 @@
   "Defiant": {
     "Description": "While this Pokémon is suffering from a negative status effect or stat change imposed by an opponent, it gains +2 to all attack rolls."
   },
+  "Delta Stream": {
+    "Description": "When this Pokémon a battle outside, the weather immediately changes to a Mysterious Air Current. This can only be overwritten by Extremely Harsh Sunlight or Heavy Rain, and weather moves and abilities (other than those that set the previously two mentioned weathers) fail while this one is in effect. In the case two Pokémon with abilities that set these weather conditions are on the battlefield at once, the weather is set by the Pokémon with the higher DEX score. The Mysterious Air Current causes Flying type Pokémon to take neutral damage from Electric, Ice and Rock type moves or effects."
+  },
+  "Desolate Land": {
+    "Description": "When this Pokémon a battle outside, the weather immediately changes to Extremely Harsh Sunlight. This can only be overwritten by Heavy Rain or a Mysterious Air Current, and weather moves and abilities (other than those that set the previously two mentioned weathers) fail while this one is in effect. In the case two Pokémon with abilities that set these weather conditions are on the battlefield at once, the weather is set by the Pokémon with the higher DEX score. The Extremely Harsh Sunlight has the same effects as Harsh Sunlight, in addition to causing all Water-type damaging moves to fail automatically."
+  },
   "Disguise": {
     "Description": "This Pokémon has a disguise which gives it a temporary hp boost equal to twice its level. When the temporary hit points fall to zero, the disguise breaks and requires a short rest to repair."
   },
   "Download": {
     "Description": "Once per short rest, this Pokémon can choose a different damage type for one of their normal attacks."
+  },
+  "Dragonize": {
+    "Description": "The Pokémon's Normal type moves become Dragon type."
+  },
+  "Dragon's Maw": {
+    "Description": "On a successful hit, this Pokémon's Dragon type moves use double the number of damage dice."
   },
   "Drizzle": {
     "Description": "When this Pokémon enters an outside battle, the weather immediately changes to light rain for 5 rounds. In the case of another Pokémon with a similar weather ability, the tie goes to the Pokémon with the highest DEX score."
@@ -137,11 +191,29 @@
   "Early Bird": {
     "Description": "This Pokémon has advantage on rolls to wake from sleep."
   },
+  "Earth Eater": {
+    "Description": "This Pokémon takes no damage from Ground type attacks. Instead, it consumes again at the end of your next turn."
+  },
   "Effect Spore": {
     "Description": "When hit by a melee attack, roll a d4. On a 4, deal an amount of grass damage equal to your proficiency modifier to your attacker."
   },
   "Electric Surge": {
     "Description": "If the move is known, this Pokémon may use the Electric Terrain move as a bonus action."
+  },
+  "Electromorphosis": {
+    "Description": "When this Pokémon is hit by a damaging move, they gain double STAB on the next damaging Electric type move it uses."
+  },
+  "Embody Aspect (Cornerstone)": {
+    "Description": "When this Pokémon is on the field, it gains +2 AC. Resets on switch."
+  },
+  "Embody Aspect (Hearthflame)": {
+    "Description": "When this Pokémon is on the field, it gains advantage on all STR, DEX and CHA saving throws. Resets on switch."
+  },
+  "Embody Aspect (Teal)": {
+    "Description": "When this Pokémon is on the field, it gains +20ft of movement speed. Resets on switch."
+  },
+  "Embody Aspect (Wellspring)": {
+    "Description": "When this Pokémon is on the field, it gains advantage on all CON, INT and WIS saving throws. Resets on switch."
   },
   "Emergency Exit": {
     "Description": "At any time this Pokémon is damaged when it is at or below 50% of its maximum HP, its trainer may switch it out as a free action."
@@ -197,17 +269,35 @@
   "Gluttony": {
     "Description": "This Pokémon must eat its held berry when it falls below half of its maximum HP."
   },
+  "Good as Gold": {
+    "Description": "This Pokémon is immune to status moves."
+  },
   "Gooey": {
     "Description": "When this Pokémon is hit with a melee attack, roll 1d4. On a result of 3 or 4, the attacker's speed is reduced to 0 until the end of its next turn."
   },
+  "Gorilla Tactics": {
+    "Description": "This Pokémon has a +5 to hit on all moves, but it is locked into the first move it selects until you switch out."
+  },
   "Grass Pelt": {
-    "Description": "This Pokémon gains +1 to AC while in grassy terrain."
+    "Description": "This Pokémon gains +3 to AC while in grassy terrain."
   },
   "Grassy Surge": {
     "Description": "If the move is known, this Pokémon may use the Grassy Terrain move as a bonus action."
   },
+  "Grim Neigh": {
+    "Description": "When this Pokémon causes another Pokémon (including allies) to faint using a damaging move, it adds +2 to all damage and +1 to hit until the end of the battle. (This buff stacks up to 5 times.)"
+  },
+  "Guard Dog": {
+    "Description": "This Pokémon cannot be forced to switch out through any means aside from its trainer, and is unaffected by redirection. If this Pokémon is targetted by Intimidate, its attack rolls are rolled at advantage instead of at disadvantage."
+  },
+  "Gulp Missile": {
+    "Description": "When above half health, this Pokémon can use its action to gulp a willing Pokémon smaller than itself - it may then, as an action, make a ranged attack using its DEX to launch the gulped Pokémon within an 100ft line's range, doing (1d8 + your level + the CON modifier of the gulped Pokémon) damage of the one of the gulped Pokémon's types, whichever would do more damage, to the target and leaving it adjacent to the victim. If the gulped Pokémon has an ability that triggers on contact with an opponent, it triggers."
+  },
   "Guts": {
     "Description": "When this Pokémon is burned or poisoned, they are not affected by the disadvantage or reduced damage effects. They still take damage at the end of each of their turns."
+  },
+  "Hadron Engine": {
+    "Description": "On switch-in, this Pokémon activates Electric Terrain. While in Electric Terrain, this Pokémon has advantage on attack rolls."
   },
   "Harvest": {
     "Description": "At the end of this Pokémon's turn, if it used a berry, roll 1d4. On a result of 3 or 4, it regains that berry as a held item."
@@ -227,6 +317,12 @@
   "Honey Gather": {
     "Description": "At the end of each battle, this Pokémon may roll a d20 + its proficiency bonus. On a result of 20 or higher, its trainer adds a Honey to their inventory."
   },
+  "Hospitality": {
+    "Description": "When this Pokémon switches in for the first time this battle, it gives a one-time heal to any ally with 25ft equal to 1d10 + its level + its CON modifier. This heal is stored for each individual ally, and the Pokémon who received the Hospitality can use it at any time to heal as a bonus action."
+  },
+  "Hunger Switch": {
+    "Description": "At the start of every round (after the first) that this Pokémon is on the field, it swaps between its Full-Belly and Hangry forms. In Full-Belly form, its Aura Wheel is Electric type and it gains advantage on WIS and CON saving throws, and in Hangry form its Aura Wheel is Dark type and it gains advantage on STR and DEX saving throws."
+  },
   "Huge Power": {
     "Description": "Once per short rest, this Pokémon may double the damage dice for a single damage roll. The player must announce that they are using this ability before the attack roll."
   },
@@ -244,6 +340,12 @@
   },
   "Ice Body": {
     "Description": "While it is snowing or hailing, this Pokémon heals for an amount of HP equal to its proficiency modifier at the end of each of its turns."
+  },
+  "Ice Face": {
+    "Description": "This Pokémon takes half damage from ranged attacks."
+  },
+  "Ice Scales": {
+    "Description": "The first time in a battle this Pokémon takes damage, it changes from its Ice Face form to its Noice Form and takes zero damage. It either can return back to its Ice Face form at the end of combat, or, once per combat, it can change from its Noice Face form to its Ice Face form at the end of its turn if it is in hail or snow."
   },
   "Illuminate": {
     "Description": "This Pokémon knows the \"Light\" cantrip and can cast it at will."
@@ -272,6 +374,9 @@
   "Intimidate": {
     "Description": "Once per short rest, you can impose disadvantage on an enemy attack roll of your choice."
   },
+  "Intrepid Sword": {
+    "Description": "On melee attacks, this Pokémon can reroll the damagbe dice and take the higher total."
+  },
   "Iron Barbs": {
     "Description": "When this Pokémon is hit by a melee attack, it may roll a d4. On a 4, deal an amount of steel damage equal to its proficiency modifier to its attacker."
   },
@@ -296,6 +401,9 @@
   "Levitate": {
     "Description": "This Pokémon is immune to ground moves."
   },
+  "Libero": {
+    "Description": "This Pokémon's type changes to the type of move it uses, just before the move is used. It takes on the new type's resistances, vulnerabilities, and immunities. Once per short rest, this Pokémon can choose to change its type to resist an incoming attack it's about to be hit by as a reaction."
+  },
   "Light Metal": {
     "Description": "This Pokémon is especially light for its species. Once per long rest, it may impose disadvantage on an attack roll against it."
   },
@@ -304,6 +412,9 @@
   },
   "Limber": {
     "Description": "This Pokémon is immune to being paralyzed."
+  },
+  "Lingering Aroma": {
+    "Description": "When this Pokémon is hit by a melee attack, one random ability of its attacker changes to Lingering Aroma for the remainder of the encounter."
   },
   "Liquid Ooze": {
     "Description": "If an enemy uses a leeching or absorb move against this Pokémon, the Pokémon must make a DC 12 CON save or become poisoned."
@@ -335,11 +446,23 @@
   "Mega Launcher": {
     "Description": "Aura and Pulse moves made by this Pokémon deal additional damage/healing equal to this Pokémon's proficiency bonus."
   },
+  "Mega Sol": {
+    "Description": "This Pokémon's attacks and abilities act as if they are under the effects of Harsh Sunlight (eg. Solar Beam goes off in one turn, Weather Ball is Fire type, etc.)."
+  },
   "Merciless": {
     "Description": "When this Pokémon makes a successful attack roll against a Poisoned Pokemon, treat that attack as a critical hit."
   },
+  "Mimicry": {
+    "Description": "If this Pokémon is in a Terrain effect, its primary typing and the type of its Normal type moves will change to match the type of the terrain, and previously Normal moves gain damage equal to its proficiency bonus."
+  },
+  "Mind's Eye": {
+    "Description": "This Pokémon ingores all type based immunities with its STAB moves, and it cannot have its attack rolls or saving throws negatively impacted in any way by an enemy."
+  },
   "Minus": {
-    "Description": "This Pokémon boosts its attack and damage rolls by 2 if an ally also has a Plus or Minus ability"
+    "Description": "This Pokémon boosts its attack and damage rolls by 2 if an ally also has a Plus or Minus ability."
+  },
+  "Mirror Armor": {
+    "Description": "As a reaction, when this Pokémon would have its AC, rolls, or stats lowered, it can become immune to the effect and reflect that stat lowering move back as if this Pokémon had used it."
   },
   "Misty Surge": {
     "Description": "If the move is known, this Pokémon may use the Misty Terrain move as a bonus action."
@@ -365,11 +488,17 @@
   "Mummy": {
     "Description": "When this Pokémon is hit by a melee attack, one random ability of its attacker changes to Mummy for the remainder of the encounter."
   },
+  "Mycelium Might": {
+    "Description": "When this Pokémon chooses to hold its action, its next status move will ignore the effects of items, abilities, or field effects that would result in the move failing. If this Pokémon holds it action for at least two turns, this ability works with damaging moves as well."
+  },
   "Natural Cure": {
     "Description": "This Pokémon is cured of negative status ailments upon returning to its Pokeball."
   },
   "Neuroforce": {
     "Description": "When this Pokémon damages a creature with a super effective move, it may roll the damage dice twice and use the higher result."
+  },
+  "Neutralising Gas": {
+    "Description": "All Pokémon in a 60ft radius of this one have their abilities nullified. (Some abilities ignore this effect.)"
   },
   "No Guard": {
     "Description": "Any attack made by or against this Pokémon has advantage."
@@ -379,6 +508,12 @@
   },
   "Oblivious": {
     "Description": "This Pokémon is immune to moves that attempt to charm or taunt it."
+  },
+  "Oppurtunist": {
+    "Description": "If an opponent's stats are positively altered in any way, this Pokémon boosts its own stats by the same amount."
+  },
+  "Orichalcum Phase": {
+    "Description": "On switch-in, this Pokémon activates Harsh Sunlight. While in Harsh Sunlight, this Pokémon has advantage on attack rolls."
   },
   "Overcoat": {
     "Description": "This Pokémon does not take damage from weather-related moves and phenomena like Hail, Weather Ball, etc."
@@ -393,7 +528,16 @@
     "Description": "This Pokémon is immune to becoming confused."
   },
   "Paper Thin": {
-    "Description": "This Pokémon always has a maximum HP of 1. (Shedinja only. Cannot be passed or swapped.)"
+    "Description": "This Pokémon always has a maximum HP of 1. (Shedinja only. Cannot be passed, swapped or nullified.)"
+  },
+  "Parental Bond": {
+    "Description": "Any time this Pokémon uses a move that targets a single Pokémon, they may use their bonus action to use the same move again without expending PP, dealing half damage on a hit."
+  },
+  "Pastel Veil": {
+    "Description": "This Pokémon and its allies within 20ft are immune to Poison and Badly Poisoned."
+  },
+  "Perish Body": {
+    "Description": "When hit by a melle move, the user activates the effects of Perish Song on itself and the attacker."
   },
   "Pickpocket": {
     "Description": "When hit by a melee attack, this Pokémon may use a reaction to attempt to steal the creature's held item with a Sleight of Hand check contested by the target's Passive Perception. After the first attempt, all other attempts against the same opponent are rolled at disadvantage."
@@ -401,17 +545,23 @@
   "Pickup": {
     "Description": "If an opponent uses a consumable held item in battle, this Pokémon gains a copy of it if it is not currently holding an item."
   },
+  "Piercing Drill": {
+    "Description": "This Pokémon's melee moves cannot be mitigated or reduced by the opponent's reaction moves or abilities. Gain a +3 critical hit chance when attempting to hit a Pokémon that tries to reduce or block your melee moves."
+  },
   "Pixilate": {
     "Description": "All of this Pokémon's normal-type moves become fairy-type."
   },
   "Plus": {
-    "Description": "This Pokémon boosts its attack and damage rolls by 2 if an ally also has a Plus or Minus ability"
+    "Description": "This Pokémon boosts its attack and damage rolls by 2 if an ally also has a Plus or Minus ability."
   },
   "Poison Heal": {
     "Description": "This Pokémon does not suffer the disadvantage effects of the poisoned status. In addition, this Pokémon recovers half of all poison damage it would take, including the damage at each of the end of its turns."
   },
   "Poison Point": {
     "Description": "When this Pokémon is hit with a melee attack, roll a 1d4. On a result of 4, the attacker takes an amount of poison damage equal to this Pokémon’s proficiency modifier."
+  },
+  "Poison Puppeteer": {
+    "Description": "All Pokémon on the field with the poison or badly poisoned satus are also confused until the poison effect is cured."
   },
   "Poison Touch": {
     "Description": "On melee attacks made by this Pokémon, roll a d10 on a hit. On a result of a 10, the target is poisoned."
@@ -422,26 +572,50 @@
   "Power of Alchemy": {
     "Description": "When switched in after an ally faints, this Pokémon copies the non-hidden ability of the fainted ally until switched out."
   },
+  "Power Spot": {
+    "Description": "This Pokémon's allies get +2 to hit on all attack rolls and the DC for their moves increases by 2 when within 15ft of the Pokémon with this ability. This ability does not affect yourself."
+  },
   "Prankster": {
     "Description": "Once per short rest, this Pokémon can move to the top of initiative order in a single round, but must use a status-affecting move on its turn."
   },
   "Pressure": {
     "Description": "Any move targeting this Pokémon directly (non-area of effect moves) reduces its PP by two when activated."
   },
+  "Primordial Sea": {
+    "Description": "When this Pokémon a battle outside, the weather immediately changes to Heavy Rain. This can only be overwritten by Extremely Harsh Sunlight or a Mysterious Air Current, and weather moves and abilities (other than those that set the previously two mentioned weathers) fail while this one is in effect. In the case two Pokémon with abilities that set these weather conditions are on the battlefield at once, the weather is set by the Pokémon with the higher DEX score. Heavy Rain has the same effects as regular Rain, and also causes all damaging Fire type moves to fail automatically."
+  },
   "Prism Armor": {
     "Description": "When this Pokémon is subject to damage in its vulnerabilities list, roll the damage dice twice and use the lower result for the damage calculation."
+  },
+  "Propeller Tail": {
+    "Description": "Moves used by this Pokémon ignore redirection, and may use its Swim Speed instead of its Walk Speed if its Swim Speed is higher."
   },
   "Protean": {
     "Description": "This Pokémon's type changes to the type of move it uses, just before the move is used. It takes on the new type's resistances, vulnerabilities, and immunities."
   },
+  "Protosynthesis": {
+    "Description": "Boosts this Pokémon's most proficient stat by +2 in Harsh Sunlight or if the Pokémon is holding the Booster Energy."
+  },
   "Psychic Surge": {
     "Description": "If the move is known, this Pokémon may use the Psychic Terrain move as a bonus action."
+  },
+  "Punk Rock": {
+    "Description": "This Pokémon's successful sound moves gain the STAB bonus regardless of their type, in addition to their already existing STAB bonus. Their sound moves also have an extra 10ft of range or radius."
   },
   "Pure Power": {
     "Description": "Once per short rest, this Pokémon may double the damage dice for a single damage roll. The player must announce that they are using this ability before the attack roll."
   },
+  "Purifying Salt": {
+    "Description": "This Pokémon is immune to negative status effects and gains a resistance to the Ghost type."
+  },
+  "Quark Drive": {
+    "Description": "Boosts this Pokémon's most proficient stat by +2 in Electric Terrain or if the Pokémon is holding the Booster Energy."
+  },
   "Queenly Majesty": {
     "Description": "Creatures within line of sight of this Pokémon cannot use bonus actions to activate Moves. Moves that would normally have a Move Time of \"1 bonus action\" instead have a Move Time of \"1 action.\""
+  },
+  "Quick Draw": {
+    "Description": "At the top of the round, roll 1d20. On a natural 15 or higher, this Pokémon is moved to the top of the turn order for this round."
   },
   "Quick Feet": {
     "Description": "When suffering from a negative status condition, this Pokémon’s speed increases by 15 ft."
@@ -467,8 +641,14 @@
   "Regenerator": {
     "Description": "Once per long rest, this Pokémon regains hit points equal to its level when it returns to its Pokéball."
   },
+  "Ripen": {
+    "Description": "Berries eaten by this Pokémon are twice as effective. This only affects berries that restore HP, PP, reduce super-effective damage, or that raise your stats at low health."
+  },
   "Rivalry": {
     "Description": "This Pokémon adds its proficiency bonus to damage when attacking a Pokémon of the same type."
+  },
+  "Rocky Payload": {
+    "Description": "This Pokémon adds its proficiency bonus to damage dealth by Rock type moves."
   },
   "Rock Head": {
     "Description": "This Pokémon takes no recoil damage."
@@ -485,6 +665,9 @@
   "Sand Rush": {
     "Description": "This Pokémon is immune to Sandstorm damage, and its speed is doubled in desert terrain, or during a Sandstorm."
   },
+  "Sand Spit": {
+    "Description": "When this Pokémon is hit by a melee move, it activates Sandstorm centered at its current location for 3 turns."
+  },
   "Sand Stream": {
     "Description": "When this Pokémon enters an outside battle, the weather immediately changes to a Sandstorm for 5 rounds. In the case of another Pokémon with a similar weather ability, the tie goes to the Pokémon with the highest DEX score."
   },
@@ -500,6 +683,12 @@
   "Scrappy": {
     "Description": "This Pokémon's Normal and Fighting type moves ignore immunities granted by a Pokémon's type. If a target’s secondary type gives it vulnerability or resistance to the attack, it follows the secondary type for that effect."
   },
+  "Screen Cleaner": {
+    "Description": "This Pokémon ignores the effects of Reflect, Light Screen and Aurora Veil. When targetting a Pokémon with these moves, they are disabled until the end of their next turn."
+  },
+  "Seed Sower": {
+    "Description": "When this Pokémon is hit by a melee move, activate Grassy Terrain for 3 turns."
+  },
   "Serene Grace": {
     "Description": "The Move DC to pass a saving throw against one of this Pokémon's moves is increased by 1."
   },
@@ -508,6 +697,9 @@
   },
   "Shadow Tag": {
     "Description": "Creatures within 50 feet of this Pokémon may not flee or switch out, except by item, Move, or ability."
+  },
+  "Sharpness": {
+    "Description": "When dealing damage with \"slicing\" moves, roll the damage dice twice and take the higher number."
   },
   "Shed Skin": {
     "Description": "If this Pokémon is affected by a negative status ailment, they can roll a d4 at the end of each of their turns. On a result of 4, they are cured."
@@ -560,11 +752,17 @@
   "Speed Boost": {
     "Description": "This Pokémon's speed is increased by 10 feet while in an environment related to its type (DM Discretion)."
   },
+  "Spicy Spray": {
+    "Description": "When this Pokémon is hit by an attack, roll 1d20. On a 10 or higher, the attacker is burned."
+  },
   "Stakeout": {
     "Description": "When an opponent is switched out in battle, this Pokémon doubles the damage dealt if it targets the replacement on the first turn immediately following the switch."
   },
   "Stall": {
     "Description": "This Pokémon is always last in initiative order."
+  },
+  "Stalwart": {
+    "Description": "Moves used by this Pokémon ignore redirection, and if it is forced to move due an opponent's move or ability it is moved half the distance (or not at all if the forced movement is only 5ft)."
   },
   "Stamina": {
     "Description": "When this Pokémon is damaged by a move, increase its AC by 2 until the start of its next turn. This ability does not stack and will remain in effect if the Pokémon is successfully attacked multiple turns in a row."
@@ -578,8 +776,14 @@
   "Steadfast": {
     "Description": "Once per long rest, when this Pokémon fails a saving throw against a status condition, it can choose to pass instead."
   },
+  "Steam Engine": {
+    "Description": "When this Pokémon is hit by a Fire or Water type move, its speed doubles for one minute. In combat, move to the top of initiative, and out of battle, gain +5 to initiative rolls for a minute."
+  },
   "Steelworker": {
     "Description": "This Pokémon adds its proficiency bonus to damage dealt by steel-type moves."
+  },
+  "Steely Spirit": {
+    "Description": "This Pokémon and its allies within 30ft get advantage on attack damage rolls for all Steel type moves. This effect does not stack with itself."
   },
   "Stench": {
     "Description": "When this Pokémon is hit by a melee attack, roll a d10. On a 10, the attacker flinches."
@@ -605,6 +809,9 @@
   "Super Luck": {
     "Description": "This Pokémon increases its critical hit range by 1 (20 to 19+, etc.)"
   },
+  "Supreme Overlord": {
+    "Description": "This Pokémongets +1 damage dice for each fainted Pokémon in its party, and for every three fainted Pokémon in its allies' parties."
+  },
   "Surge Surfer": {
     "Description": "When this Pokémon begins its turn in the area of effect from Electric Terrain, its speed is doubled."
   },
@@ -617,11 +824,17 @@
   "Swift Swim": {
     "Description": "This Pokémon's speed is doubled in rainy conditions."
   },
+  "Sword of Ruin": {
+    "Description": "While this Pokémon is on the battlefield, all melee attack rolls on the field have advantage, and savings throws are made at disadvantage."
+  },
   "Symbiosis": {
     "Description": "This Pokémon may swap held items with an ally as a free action, as long as they are within 15 feet of each other."
   },
   "Synchronize": {
     "Description": "If this Pokémon becomes burned, paralyzed, or poisoned, its attacker receives the negative status condition as well (if not immune)."
+  },
+  "Tablets of Ruin": {
+    "Description": "While this Pokémon is on the battlefield, all melee attack rolls on the field have disadvantage, and savings throws are made at advantage."
   },
   "Tangled Feet": {
     "Description": "Attacks against this Pokémon have disadvantage when it is confused."
@@ -635,8 +848,20 @@
   "Telepathy": {
     "Description": "This Pokémon cannot be damaged by its allies' attacks."
   },
+  "Teraform Zero ": {
+    "Description": "This Pokémon disables the effects of weather, terrain, hazards, and any other \"on field\" effects, reducing them to zero. This Pokémon is additionally immune to difficult terrain. Cannot exist at the same time as Tera Shift or Tera Shell."
+  },
   "Teravolt": {
     "Description": "This Pokémon’s moves completely ignore any ability that would hinder or prevent their effect on the target or the user's ability to hit the target."
+  },
+  "Tera Shell": {
+    "Description": "While at full health, all direct damage aimed at this Pokémon becomes not very effective. Cannot exist at the sane time as Tera Shift or Teraform Zero."
+  },
+  "Tera Shift": {
+    "Description": "When this Pokémon it can use its action to force all attacks to be made at disadvantage, and saving throws it makes are at advantage for the rest of the round, turning into its Tera Form at the start of the next round. Cannot exist at the same time as Tera Shell or Teraform Zero."
+  },
+  "Thermal Exchange": {
+    "Description": "When this Pokémon is hit by a Fire type attack, its next attack is rolled at advantage. This Pokémon is also immune to the burned status."
   },
   "Thick Fat": {
     "Description": "This Pokemon takes half the damage it otherwise would from Ice and Fire damage."
@@ -653,11 +878,20 @@
   "Toxic Boost": {
     "Description": "When this Pokémon is hit by a poison-type attack, its next attack is rolled at advantage."
   },
+  "Toxic Chain": {
+    "Description": "When this Pokémon deals damage, roll 1d20. On a 15 or hier, the target is badly poisoned."
+  },
+  "Toxic Debris": {
+    "Description": "When this Pokémon is hit by a melee move, they can set a layer of Toxic Spikes up to 20ft in front of it until the end of the next round."
+  },
   "Trace": {
     "Description": "This Pokémon copies a random ability of an opponent when entering battle. The ability cannot be Flower Gift, Forecast, Illusion, Imposter, Multitype, Trace, Wonder Guard, or Zen Mode."
   },
   "Transformer": {
     "Description": "This Pokémon has a standard Normal form from which all stats are based, but may change forms as a bonus action to drastically change its abilities. The forms it can take are Attack, Defense, and Speed. \n- In Attack form, it adds an additional +5 to its attack rolls, but all attacks against it has advantage.\n- In Defense form, its AC increases by 3, but its attacks are rolled at disadvantage. If the activated move requires a save, the target(s) have advantage.\n- In Speed form, it gains an additional attack action each turn, but the attack is done at disadvantage. If it is a move that requires a save, the target(s) have advantage."
+  },
+  "Transistor": {
+    "Description": "On a successful hit, this Pokémon's Electric type moves use double the damage dice."
   },
   "Triage": {
     "Description": "This Pokémon's healing or draining moves have a move time of 1 bonus action."
@@ -677,6 +911,12 @@
   "Unnerve": {
     "Description": "Opponents in combat with this Pokémon cannot eat held berries."
   },
+  "Unseen Fist": {
+    "Description": "This Pokémon's melee moves cannot be mitigated or reduced by the opponent's reaction moves or abilities. When a Pokémon attempts to reduce or block your melee moves, you deal damage to them equal to your proficiency bonus."
+  },
+  "Vessel of Ruin": {
+    "Description": "While this Pokémon is on the battlefield, all ranged attack rolls on the field have disadvantage, and savings throws are made at advantage."
+  },
   "Victory Star": {
     "Description": "While this Pokémon is in battle, all allied Pokémon add an additional +1 to their attack rolls."
   },
@@ -685,6 +925,9 @@
   },
   "Volt Absorb": {
     "Description": "This Pokémon takes no damage from electricity or electric-type attacks. Instead, half of any electric damage done is absorbed, restoring the Pokémon's HP."
+  },
+  "Wandering Spirit": {
+    "Description": "When hit by a melee move, roll a 1d100. If the number is 49 or higher, this ability swaps itself with one of the target's abilities."
   },
   "Water Absorb": {
     "Description": "This Pokémon takes no damage from water or water-type attacks. Instead, half of any water damage done is absorbed, restoring the Pokémon's HP."
@@ -704,11 +947,17 @@
   "Weak Armor": {
     "Description": "When an attack hits this Pokémon, its speed increases by 5 feet, but its AC is temporarily reduced by 1 until the end of battle (for a maximum reduction of -5)."
   },
+  "Well-Baked Body": {
+    "Description": "This Poémon takes no damage when hit by a Fire type move. Instead, they gain +2 to their AC (max of +6) until the end of the battle."
+  },
   "White Smoke": {
     "Description": "Other Pokémon's moves or abilities cannot lower this Pokémon stats."
   },
   "Wimp Out": {
     "Description": "When a damaging move causes this Pokémon to fall below 50% of its maximum HP, it MUST disengage and move up to its speed in a straight line towards its trainer as a free action. If this would put the Pokémon in range of switching out, it must do so as another free action if another Pokémon is available to replace it."
+  },
+  "Wind Power": {
+    "Description": "When under the effects of Tailwind, or when hit by a \"wind\" move, this Pokémon gains double STAB on the next damaging Electric type move it uses."
   },
   "Wonder Guard": {
     "Description": "This Pokémon is immune to damaging attacks from types that are not in its vulnerabilities list. (Shedinja only. Cannot be passed or swapped)"
@@ -718,5 +967,8 @@
   },
   "Zen Mode": {
     "Description": "When Darmanitan is below 50% of its HP, it enters Zen Mode. In Zen Mode, Darmanitan changes into the form of a solid statue. It's type changes to Fire/Psychic, it gains +4 to its AC, and its STR and WIS ability scores are swapped."
+  },
+  "Zero to Hero": {
+    "Description": "If this Pokémon switches out in battle, the next time it re-enters battle it transforms into a superhero. It gains +2 to AC and +1 to all ability modifiers, gains a walk speed of 20ft and swimming speed of 50ft. If it faints or the battle ends, it returns to normal."
   }
 }

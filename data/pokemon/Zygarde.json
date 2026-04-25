@@ -130,6 +130,27 @@
         },
         "display": "Zygarde Complete Forme",
         "original_species": "Zygarde Complete Forme"
+      },
+      "Mega Zygarde": {
+        "diff": {
+          "AC": 20,
+          "Abilities": [
+            "Power Construct"
+          ],
+          "WSp": 55,
+          "Fsp": 40,
+          "attributes": {
+            "CHA": 18,
+            "CON": 30,
+            "DEX": 19,
+            "INT": 18,
+            "STR": 20,
+            "WIS": 20
+          },
+          "size": "Gargantuan"
+        },
+        "display": "Mega Zygarde",
+        "original_species": "Mega Zygarde"
       }
     }
   }
